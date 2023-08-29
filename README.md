@@ -23,7 +23,7 @@ _<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
 <div align="center">
  <h2>🧰 Tools</h2>
  
- ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,figma,xd,sqlite,Wordpress,django)
+ ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,figma,xd,sqlite,wordpress,django)
 </div>
 
 <hr>
