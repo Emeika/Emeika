@@ -15,7 +15,7 @@ _<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
 <div align="center">
  <h2>💻 Languages</h2>
  
- ![](https://skillicons.dev/icons?i=py,cpp,c,rust)
+ ![](https://skillicons.dev/icons?i=py,cpp,c,rust,html,css)
 </div>
 
 <hr>
@@ -23,7 +23,7 @@ _<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
 <div align="center">
  <h2>🧰 Tools</h2>
  
- ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,figma,xd,sqlite,wordpress)
+ ![](https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,figma,xd,sqlite,Wordpress,django)
 </div>
 
 <hr>
@@ -36,7 +36,7 @@ _<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
 
 <hr>
 
-<h2>🌐 How To Reach Me</h2>
+<h2>🌐 Reach Me At</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1071055162900230154)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsah-shahbaz-b1254a241/)
