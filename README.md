@@ -1,6 +1,6 @@
-_<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
+_<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=35&pause=1000&color=F73EC4&background=FFFFFF00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hafsah!;Welcome+to+my+profile+%E2%9D%A4%EF%B8%8F)] <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>_
 
-### Glad to see you here!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Glad to see you here!
 
 <div align="center">
 
@@ -45,8 +45,6 @@ _<h1 align="center">Hey 👋, I'm Hafsah!</h1>_
 [![Freelancer](https://img.shields.io/badge/-Freelancer-2F7FC1?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/emika08?frm=emika08&sb=t)
 
 <hr>
-
-<h2>😂 Random Dev Meme</h2>
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
