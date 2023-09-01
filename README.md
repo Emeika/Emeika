@@ -1,4 +1,4 @@
-_<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=35&pause=1000&color=F73EC4&background=FFFFFF00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hafsah!;Welcome+to+my+profile+%E2%9D%A4%EF%B8%8F) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>_
+_<h1 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=35&pause=1000&color=F73EC4&background=FFFFFF00&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Hafsah!;Welcome+to+my+profile+%E2%9D%A4%EF%B8%8F)                <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>_
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Glad to see you here!
 
